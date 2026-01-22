@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Country Reports - GHAP</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Country Reports</h1>
+<p>Click a country to view its healthcare access report</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="country.html">Country Reports</a>
+</nav>
+
+<section class="report">
+<h2>Sample Country: Kenya</h2>
+<p><strong>Interview Role:</strong> Public hospital nurse</p>
+
+<h3>Key Challenges</h3>
+<ul>
+<li>Limited rural access to care</li>
+<li>Staff shortages</li>
+<li>Underfunded public hospitals</li>
+</ul>
+
+<h3>Strengths</h3>
+<ul>
+<li>Community health worker programs</li>
+<li>Growing preventive care initiatives</li>
+</ul>
+
+<h3>Reflection</h3>
+<p>This interview highlighted the critical role of frontline workers in low-resource settings and reinforced the importance of system-level reform.</p>
+</section>
+
+<footer>
+<p>© 2026 Global Health Access Project</p>
+</footer>
+
+</body>
+</html>

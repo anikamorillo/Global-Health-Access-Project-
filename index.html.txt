@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Global Health Access Project (GHAP)</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Global Health Access Project (GHAP)</h1>
+<p>An independent student-led research initiative exploring global healthcare access.</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="country.html">Country Reports</a>
+</nav>
+
+<section>
+<h2>Mission Statement</h2>
+<p>GHAP studies disparities in healthcare access worldwide through interviews and analysis of health systems. Findings highlight challenges, effective strategies, and resources for advocacy and education.</p>
+</section>
+
+<section>
+<h2>Methodology</h2>
+<ul>
+<li>Interviews with doctors, nurses, and public health workers</li>
+<li>Analysis of health system resources, policies, and outcomes</li>
+<li>Ethical research with informed consent and anonymized participants</li>
+</ul>
+</section>
+
+<section>
+<h2>Impact & Goals</h2>
+<p>GHAP raises awareness of healthcare inequities, promotes education and advocacy, and shares findings publicly to inspire solutions and highlight frontline healthcare experiences.</p>
+</section>
+
+<footer>
+<p>© 2026 Global Health Access Project</p>
+</footer>
+
+</body>
+</html>
