@@ -7,4 +7,3 @@ The website includes:
 - About Me / Backstory page (`about.html`)
 - Stylesheet (`style.css`) and optional JS (`map.js`)
 
-Website live at: https://anikamorillo.github.io/global-health-initiative/
